@@ -1,5 +1,5 @@
-data/processed*
-data/originals*
+data/*
+!data/originals/*
 
 members.csv
 casuals.csv
