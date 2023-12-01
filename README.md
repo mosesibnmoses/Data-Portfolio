@@ -1,16 +1,22 @@
-Hi, I’m Daniel Moiseev 👋
+# Hi, I’m Daniel Moiseev 👋
 I’m a scientifically-minded empirical analyst with experience in public health, neuroscience, and education. I have a Bachelor’s degree in Psychology and Computer Science from the University of Oregon. I’m passionate about data science, machine learning, and artificial intelligence. I enjoy working on projects that can make a positive impact on the world.
 
-📊 My Data Portfolio
+## 📊 My Data Portfolio
 This repository contains some of the projects that I have worked on or contributed to in the field of data science. These projects demonstrate my skills in data analysis, data visualization, machine learning, deep learning, computer vision, image analysis, and more. You can find the code, data, and results for each project in the corresponding subfolder.
 
 Here is a list of the projects that I have included in this portfolio:
 
+* [Bikeshare Trips Analysis](https://github.com/mosesibnmoses/Data-Portfolio/tree/main/Bike%20share%20business%20analysis) **Python**/*Pandas* This project analyzes the last 12 months of Divvy Bikeshare trips in Chicago, focusing on the differences between casual users and paying members. 
+
 I aim to showcase more type of projects here, as well as more of my skills. Meanwhile, here is also a couple of select publications I contributed to and used my data analysis and deep learning skills: 
 * [**Automation of Quantifying Axonal Loss in Patients with Peripheral Neuropathies through Deep Learning Derived Muscle Fat Fraction**](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.27508) *Journal of Magnetic Resonance Imaging* · Jan 14, 2022
 
-I worked closely with Dr. Chen to devise a deep-leaning based method of segmenting muscle from thigh and calf MRI-images. I designed and implemented a 3D U-net model, programmed an ETL pipeline, and trained the model to automatically segment whole muscle, muscle compartments, or individual muscle with very good accuracy. Training the model with limited training data available caused for an extensive degree of data augmentation, but I was able to implement an augmentation protocol that allowed the 3D U-net to be effectively trained and to produce useful results on novel images (figure 3). Dr. Chen then used these segmentation to assess fat fraction of the segmented muscles. This is significant since fat fraction is a very useful method to monitor neuropathic disease progression, as muscle fat fraction can serve as a proxy to nerve degeneration, which is substantially more difficult to assess directly.
+~~~
+In a recent publication, I introduced a deep learning-based approach for muscle segmentation from thigh and calf MRI images. I engineered a 3D U-net model and developed an ETL pipeline, which enabled the model to accurately segment individual muscles. Despite the limited training data available, I successfully implemented a data augmentation protocol. This allowed the 3D U-net model to be effectively trained and to yield valuable results on new images. These segmented muscles were subsequently used to evaluate the fat fraction. This is a significant contribution as muscle fat fraction serves as a reliable indicator of nerve degeneration, a key factor in monitoring the progression of neuropathic diseases. This method offers a more feasible alternative to direct nerve degeneration assessment, which is considerably more challenging.
+~~~
 
 * [**Morphometric Analysis of Peripheral Myelinated Nerve Fibers through Deep Learning**](https://onlinelibrary.wiley.com/doi/abs/10.1111/jns.12293) *Journal of the Peripheral Nervous System* · Nov 28, 2018
 
-This method paper represents my first effort of producing a largely automated method to extract and evaluate morphometric data from mouse sciatic nerve semi-thin section images. I was responsible for planning and designing the method, collecting hundreds of images, producing manual segmentations and organizing the train and test datasets. Most importantly I wrote the code to process the images, implement a U-net based deep learning system, and train it. In the paper, I evaluated the data acquired using this method, by comparing the model’s segmentations to manual ones. Dr. Bo Hu and Dr. Jun Li helped with overall direction, and writing. Although this method has substantially evolved from the time of publication, it is still in use in our lab. It is invaluable in allowing us to obtain morphometric data from mouse nerves in a timely and efficient manner.
+~~~
+In this project, I developed an automated method for extracting and evaluating morphometric data from mouse sciatic nerve semi-thin section images. My responsibilities included planning and designing the method, collecting hundreds of images, producing manual segmentations, and organizing the train and test datasets. I also wrote the code to process the images, implemented a U-net based deep learning system, and trained it. The paper evaluates the data acquired using this method by comparing the model’s segmentations to manual ones.
+~~~
