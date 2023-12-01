@@ -1,10 +1,10 @@
-# Hi, I’m Daniel Moiseev 👋
-I’m a Data Analyst with Expertise in Research Methodology and Statistical Insights across Public Health, Neuroscience, and Education. I have a Bachelor’s degree in Psychology and Computer Science from the University of Oregon. I’m passionate about data science, machine learning, and artificial intelligence. I enjoy working on projects that can make a positive impact on the world.
+# Hi, I’m Daniel Moiseev 
+I’m a Data Analyst with Expertise in Research Methodology and Statistical Insights across Public Health, Neuroscience, and Education. I have a Bachelor’s degree in Psychology and Computer Science from the University of Oregon. I’m passionate about data science, machine learning, and artificial intelligence. I enjoy working on projects that can make a positive impact on the world. Feel free to [reach out](https://www.linkedin.com/in/dmoiseev/)!
 
 ## 📊 My Data Portfolio
-This repository contains some of the projects that I have worked on or contributed to in the field of data science. These projects demonstrate my skills in data analysis, data visualization, machine learning, deep learning, computer vision, image analysis, and more. You can find the code, data, and results for each project in the corresponding subfolder.
+This repository contains some of the projects that I have worked on or contributed to. These projects demonstrate my skills in data analysis and data visualization. You can find the code, data, and results for each project in the corresponding subfolder.
 
-Here is a list of the projects that I have included in this portfolio:
+Here is a list of the projects that I have included in this portfolio (so far):
 
 ### [Bikeshare Trips Analysis](https://github.com/mosesibnmoses/Data-Portfolio/tree/main/Bike%20share%20business%20analysis)  **Python**/*Pandas* This project analyzes the last 12 months of Divvy Bikeshare trips in Chicago, focusing on the differences between casual users and paying members. 
 
