@@ -8,7 +8,7 @@ Here is a list of the projects that I have included in this portfolio (so far):
 
 ### [Bikeshare Trips Analysis](https://github.com/mosesibnmoses/Data-Portfolio/tree/main/Bike%20share%20business%20analysis)  **Python**/*Pandas* This project analyzes the last 12 months of Divvy Bikeshare trips in Chicago, focusing on the differences between casual users and paying members. 
 
-### [Bike Store Relational Database analysis](https://github.com/mosesibnmoses/Data-Portfolio/tree/main/Bike%20share%20business%20analysis)  **SQL** Here I analyze a relational database that represents the inner working of a fictional bike store and show off my SQL skills.
+### [Bike Store Relational Database analysis](https://github.com/mosesibnmoses/Data-Portfolio/tree/main/Bike%20Store%20Relational%20Database%20%20SQL)  **SQL** Here I analyze a relational database that represents the inner working of a fictional bike store and show off my SQL skills.
 
 I aim to showcase more type of projects here, as well as more of my skills. Meanwhile, here is also a couple of select publications I contributed to and used my data analysis and deep learning skills: 
 ### [**Automation of Quantifying Axonal Loss in Patients with Peripheral Neuropathies through Deep Learning Derived Muscle Fat Fraction**](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.27508) *Journal of Magnetic Resonance Imaging* · Jan 14, 2022
