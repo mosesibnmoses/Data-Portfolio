@@ -1,12 +1,6 @@
-
-
 DAC8-case-Study-1.pdf
-*.csv
-Bike share business analysis/.ipynb_checkpoints/case1-checkpoint.ipynb
-Bike share business analysis/.ipynb_checkpoints/Bike-share trips analysis-checkpoint.ipynb
-Bike share business analysis/.ipynb_checkpoints/Bike-share trips analysis-checkpoint.ipynb
-Bike share business analysis/.ipynb_checkpoints/Bike-share trips analysis-checkpoint.ipynb
-Bike share business analysis/.ipynb_checkpoints/Bike-share trips analysis-checkpoint.ipynb
+Bike share business analysis/data/*
+Bike share business analysis/.ipynb_checkpoints/*
 *.pkl
-Bike share business analysis/.ipynb_checkpoints/Bike-share trips analysis-checkpoint.ipynb
-Bike share business analysis/.ipynb_checkpoints/Bike-share trips analysis-checkpoint.ipynb
+Bike Store Relational Database  SQL/.ipynb_checkpoints/*
+Multi-Class Prediction of Cirrhosis Outcomes/.ipynb_checkpoints/*
