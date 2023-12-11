@@ -14,6 +14,10 @@ Here is a list of the projects that I have included in this portfolio (so far):
 
 ![Alt-text](SQL-Bikeshop-Database.png)
 
+### [Multi-Class Prediction of Cirrhosis Outcomes]() **Python|Machine Learning|Data Classification** This is code for a competition on [Kaggle.com](https://www.kaggle.com/competitions/playground-series-s3e26). Here my goal is to show off more Data Science skills such as regression analysis, multi-class prediction, and feature engineering.
+
+![Alt text](LIver_cirrhosis.png)
+
 I aim to showcase more type of projects here, as well as more of my skills. Meanwhile, here is also a couple of select publications I contributed to and used my data analysis and deep learning skills: 
 ### [**Automation of Quantifying Axonal Loss in Patients with Peripheral Neuropathies through Deep Learning Derived Muscle Fat Fraction**](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.27508) *Journal of Magnetic Resonance Imaging* · Jan 14, 2022
 
